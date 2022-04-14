@@ -1,4 +1,4 @@
-token = '5270063342:AAGshKsgciJBJlMtlxMyiKnb6Od5NKVwHBc'
+token = '5278120427:AAFwyrUuANTi0In0ZL8Kv9pe3vrjVkhaQe0'
 secret_message = 'XXX'
 one_post = 'Hi !'
 correct_key = 'Everything is fine !'
